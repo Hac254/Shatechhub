@@ -7,38 +7,87 @@ import { Button } from '@/components/ui/button'
 
 const testimonials = [
   {
-    name: 'James Kariuki',
+    name: 'Margaret Mueni',
     location: 'Masinga, Machakos',
     quote:
       'SHATECH HUB transformed my farm. With drip irrigation and organic methods, my yields tripled while using half the water. Their support has been invaluable.',
     rating: 5,
   },
   {
-    name: 'Maria Mwangi',
+    name: 'Micheal Mutuku',
     location: 'Machakos County',
     quote:
       'The terracing work protected my farm from erosion. Now my soil is healthier, my crops grow stronger, and I feel confident about the future.',
     rating: 5,
   },
   {
-    name: 'Peter Kamau',
+    name: 'Samuel Kimani',
     location: 'Thatha Sub-location',
     quote:
       'Coming from traditional farming to climate-smart techniques was an investment that paid off immediately. My neighbors can see the difference. Highly recommended!',
     rating: 5,
   },
   {
-    name: 'Grace Kamuthoni',
+    name: 'Dickson Kathinzi',
     location: 'Machakos',
     quote:
       'The organic farming methods increased my soil fertility and reduced my input costs. SHATECH HUB truly grows legacies, not just solutions.',
     rating: 5,
   },
   {
-    name: 'David Muthui',
+    name: 'Evans Kavita',
     location: 'Masinga Region',
     quote:
       'Water conservation with their drip systems saved me money during dry seasons. The whole community is interested now. Thank you for this innovation!',
+    rating: 5,
+  },
+  {
+    name: 'Michael Kioko',
+    location: 'Kangundo, Machakos',
+    quote:
+      'The drip irrigation kit was affordable and easy to maintain. My vegetables now thrive even when rains are unpredictable.',
+    rating: 5,
+  },
+  {
+    name: 'Norah Mutunga',
+    location: 'Masinga, Machakos',
+    quote:
+      'SHATECH HUB trained me on organic practices that improved my harvest without expensive chemicals. My family eats healthier food too.',
+    rating: 5,
+  },
+  {
+    name: 'Joshua Matheka',
+    location: 'Machakos County',
+    quote:
+      'Terracing stopped the soil from washing away during heavy rains. My land is more productive than it has been in years.',
+    rating: 5,
+  },
+  {
+    name: 'Joiseph Mutinda',
+    location: 'Thatha Sub-location',
+    quote:
+      'I switched to climate-smart farming with their guidance and saw results within one season. Other farmers now come to learn from my farm.',
+    rating: 5,
+  },
+  {
+    name: 'Paul Wambua',
+    location: 'Masinga Region',
+    quote:
+      'Their team walked with me from planning to installation. The drip system pays for itself through the water and time I save.',
+    rating: 5,
+  },
+  {
+    name: 'Maria Ndanu',
+    location: 'Machakos',
+    quote:
+      'Organic manure and proper soil care revived my tired fields. SHATECH HUB showed me farming can be sustainable and profitable.',
+    rating: 5,
+  },
+  {
+    name: 'Penina Mueni',
+    location: 'Masinga, Machakos',
+    quote:
+      'As a smallholder farmer, I needed solutions that fit my budget. SHATECH HUB delivered exactly that — real change I can see on my farm.',
     rating: 5,
   },
 ]
