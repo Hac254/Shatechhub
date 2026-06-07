@@ -6,39 +6,87 @@ import { useState } from 'react'
 const galleryItems = [
   {
     id: 1,
-    image: '/hero-farm.jpg',
+    image: 'https://i.ibb.co/chdnqxzR/image.png',
     caption: 'Thriving crops with modern drip irrigation systems',
     category: 'Irrigation',
   },
   {
     id: 2,
-    image: '/drip-irrigation.jpg',
+    image: 'https://i.ibb.co/8Lv4XDdy/image.png',
     caption: 'Efficient water delivery for maximum crop health',
     category: 'Drip Systems',
   },
   {
     id: 3,
-    image: '/terraced-farm.jpg',
+    image: 'https://i.ibb.co/g55yvc1/image.png',
     caption: 'Water-conserving terraced landscape',
     category: 'Terracing',
   },
   {
     id: 4,
-    image: '/organic-farm.jpg',
+    image: 'https://i.ibb.co/7JVghsCj/image.png',
     caption: 'Healthy organic crops in Masinga, Machakos',
     category: 'Organic Farming',
   },
   {
     id: 5,
-    image: '/nursery.jpg',
+    image: 'https://i.ibb.co/qF4qRY6m/image.png',
     caption: 'Quality seedlings ready for sustainable growth',
     category: 'Nursery',
   },
   {
     id: 6,
-    image: '/demo-farm.jpg',
+    image: 'https://i.ibb.co/49TGzwz/image.png',
     caption: 'Demonstration farm showcasing climate-smart techniques',
     category: 'Demo Farm',
+  },
+  {
+    id: 7,
+    image: 'https://i.ibb.co/SSXw41W/image.png',
+    caption: 'Before and after farm transformation',
+    category: 'Irrigation',
+  },
+  {
+    id: 8,
+    image: 'https://i.ibb.co/fdsvXKT0/image.png',
+    caption: 'Drip irrigation installation in progress',
+    category: 'Drip Systems',
+  },
+  {
+    id: 9,
+    image: 'https://i.ibb.co/HT4J3KHj/image.png',
+    caption: 'Terraced fields improving water retention',
+    category: 'Terracing',
+  },
+  {
+    id: 10,
+    image: 'https://i.ibb.co/14WMxWC/image.png',
+    caption: 'Organic vegetable production at scale',
+    category: 'Organic Farming',
+  },
+  {
+    id: 11,
+    image: 'https://i.ibb.co/5WP5MghV/image.png',
+    caption: 'Seedling nursery supporting local farmers',
+    category: 'Nursery',
+  },
+  {
+    id: 12,
+    image: 'https://i.ibb.co/vv61T4pB/image.png',
+    caption: 'Climate-smart farming demonstration site',
+    category: 'Demo Farm',
+  },
+  {
+    id: 13,
+    image: 'https://i.ibb.co/fdh38vLv/image.png',
+    caption: 'Sustainable agriculture in Machakos County',
+    category: 'Irrigation',
+  },
+  {
+    id: 14,
+    image: 'https://i.ibb.co/P7L5HYP/image.png',
+    caption: 'Farmers benefiting from water-efficient systems',
+    category: 'Drip Systems',
   },
 ]
 
