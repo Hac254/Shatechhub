@@ -11,6 +11,24 @@ export const metadata: Metadata = {
   description: 'Transform your farm with drip irrigation, organic farming, and terracing. SHATECH HUB empowers smallholder farmers in Machakos with sustainable solutions.',
   keywords: 'agriculture, drip irrigation, organic farming, terracing, Machakos, Kenya, smallholder farmers, sustainable farming',
   authors: [{ name: 'SHATECH HUB' }],
+  icons: {
+    icon: [
+      { url: '/icon.svg', type: 'image/svg+xml' },
+      {
+        url: '/icon-light-32x32.png',
+        sizes: '32x32',
+        type: 'image/png',
+        media: '(prefers-color-scheme: light)',
+      },
+      {
+        url: '/icon-dark-32x32.png',
+        sizes: '32x32',
+        type: 'image/png',
+        media: '(prefers-color-scheme: dark)',
+      },
+    ],
+    apple: '/apple-icon.png',
+  },
   openGraph: {
     title: 'SHATECH HUB - Cultivating Resilience, Rooted in Innovation',
     description: 'Transforming lives through sustainable agricultural solutions in Machakos, Kenya',
