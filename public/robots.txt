@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shatechhub.vercel.app/sitemap.xml
